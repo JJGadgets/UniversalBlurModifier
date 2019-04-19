@@ -35,6 +35,8 @@
 			<string>PSSliderCell</string>
 			<key>defualts></key>
 			<string>com.jjgadgets.uniblurmod</string>
+			<key>key</key>
+			<string>SBBlur</string>
 			<key>max</key>
 			<real>100</real>
 			<key>min</key>

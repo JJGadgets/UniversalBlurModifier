@@ -1,3 +1,9 @@
+ARCHS = arm64
+TARGET = iphone:clang:11.2:10.0
+
+DEBUG = 0
+FINALPACKAGE = 0
+
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = UniversalBlurModifier
